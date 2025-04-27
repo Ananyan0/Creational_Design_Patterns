@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35818.85 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task2 Light and Dark themes", "Task2 Light and Dark themes\Task2 Light and Dark themes.csproj", "{B83569BF-4967-4555-9F8D-53E4C016F1B2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B83569BF-4967-4555-9F8D-53E4C016F1B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B83569BF-4967-4555-9F8D-53E4C016F1B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B83569BF-4967-4555-9F8D-53E4C016F1B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B83569BF-4967-4555-9F8D-53E4C016F1B2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8DAC7CB8-BBA3-4983-876A-48F316049F99}
+	EndGlobalSection
+EndGlobal
